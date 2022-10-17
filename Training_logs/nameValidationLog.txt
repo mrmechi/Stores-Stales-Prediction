@@ -1,0 +1,14 @@
+2022-10-15/21:24:58		Invalid File Name!! File moved to Bad Raw Folder :: Train.csv
+2022-10-15/21:29:21		Invalid File Name!! File moved to Bad Raw Folder :: Train.csv
+2022-10-15/21:55:06		File Name Validated!! 
+2022-10-15/22:01:11		File Name Validated!! 
+2022-10-15/22:05:36		File Name Validated!! 
+2022-10-15/22:06:07		File Name Validated!! 
+2022-10-15/22:06:35		File Name Validated!! 
+2022-10-15/22:07:01		File Name Validated!! 
+2022-10-15/22:07:06		File Name Validated!! 
+2022-10-15/22:11:03		File Name Validated!! 
+2022-10-15/22:11:56		File Name Validated!! 
+2022-10-15/22:12:34		File Name Validated!! 
+2022-10-15/22:13:09		File Name Validated!! 
+2022-10-15/22:13:30		File Name Validated!! 

@@ -1,0 +1,45 @@
+2022-10-15/12:31:46		Start of Validation on files!!
+2022-10-15/12:44:12		Start of Validation on files!!
+2022-10-15/12:47:03		Start of Validation on files!!
+2022-10-15/12:47:24		Start of Validation on files!!
+2022-10-15/21:09:13		Start of Validation on files!!
+2022-10-15/21:10:07		Start of Validation on files!!
+2022-10-15/21:12:34		Start of Validation on files!!
+2022-10-15/21:22:39		Start of Validation on files!!
+2022-10-15/21:24:58		Start of Validation on files!!
+2022-10-15/21:24:58		Raw Data Validation Complete!!
+2022-10-15/21:28:31		Start of Validation on files!!
+2022-10-15/21:28:31		Raw Data Validation Complete!!
+2022-10-15/21:29:21		Start of Validation on files!!
+2022-10-15/21:29:21		Raw Data Validation Complete!!
+2022-10-15/21:29:59		Start of Validation on files!!
+2022-10-15/21:29:59		Raw Data Validation Complete!!
+2022-10-15/21:38:12		Start of Validation on files!!
+2022-10-15/21:38:12		Raw Data Validation Complete!!
+2022-10-15/21:44:03		Start of Validation on files!!
+2022-10-15/21:44:03		Raw Data Validation Complete!!
+2022-10-15/21:55:06		Start of Validation on files!!
+2022-10-15/21:55:06		Raw Data Validation Complete!!
+2022-10-15/22:00:08		Start of Validation on files!!
+2022-10-15/22:01:11		Start of Validation on files!!
+2022-10-15/22:01:11		Raw Data Validation Complete!!
+2022-10-15/22:05:36		Start of Validation on files!!
+2022-10-15/22:05:36		Raw Data Validation Complete!!
+2022-10-15/22:06:07		Start of Validation on files!!
+2022-10-15/22:06:07		Raw Data Validation Complete!!
+2022-10-15/22:06:35		Start of Validation on files!!
+2022-10-15/22:06:35		Raw Data Validation Complete!!
+2022-10-15/22:07:01		Start of Validation on files!!
+2022-10-15/22:07:01		Raw Data Validation Complete!!
+2022-10-15/22:07:06		Start of Validation on files!!
+2022-10-15/22:07:06		Raw Data Validation Complete!!
+2022-10-15/22:11:03		Start of Validation on files!!
+2022-10-15/22:11:03		Raw Data Validation Complete!!
+2022-10-15/22:11:56		Start of Validation on files!!
+2022-10-15/22:11:56		Raw Data Validation Complete!!
+2022-10-15/22:12:34		Start of Validation on files!!
+2022-10-15/22:12:34		Raw Data Validation Complete!!
+2022-10-15/22:13:09		Start of Validation on files!!
+2022-10-15/22:13:09		Raw Data Validation Complete!!
+2022-10-15/22:13:30		Start of Validation on files!!
+2022-10-15/22:13:30		Raw Data Validation Complete!!
